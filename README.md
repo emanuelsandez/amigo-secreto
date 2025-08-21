@@ -4,7 +4,7 @@
 Este proyecto corresponde al primer desafío del curso dictado por Allura Latam y One de Principiante en Programación. Consiste en desarrollar el código app.js para el funcionamiento de una página web capaz de recibir un listado de nombres de amigos y luego aleatoriamente asignar un amigo secreto a partir de la lista dada.
 
 <h2 align="center"> Estado del proyecto </h2>
-<h4 align="center"> :construction: Proyecto en construcción :construction: </h4>
+<h4 align="center"> :construction: Proyecto en Deployado :construction: </h4>
 Este proyecto cumple con todos los requisitos solicitados por el desafío del amigo secreto.
 
 <h2 align="center"> :hammer:Funcionalidades del proyecto </h2>
@@ -14,7 +14,7 @@ Este proyecto cumple con todos los requisitos solicitados por el desafío del am
 - `Funcionalidad 2a`: Mostrar en pantalla el amigo secreto seleccionado por el programa
 
 <h2 align="center"> 📁 Acceso al proyecto </h2>
-Este es un proyecto abierto, por lo que puedes descargarlo desde GitHub en el siguiente link: https://github.com/camichandiac/amigo-secreto.git
+Este es un proyecto abierto, por lo que puedes descargarlo desde GitHub en el siguiente link: https://github.com/emanuelsandez/amigo-secreto
 
 <h2 align="center"> 🛠️ Abre y ejecuta el proyecto </h2>
 <h4> **** Antes de abrir el proyecto, debes tener instalado VSCode **** </h4>
