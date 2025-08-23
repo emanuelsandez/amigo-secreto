@@ -4,7 +4,7 @@
 Este proyecto corresponde al primer desafío del curso dictado por Allura Latam y One de Principiante en Programación. Consiste en desarrollar el código app.js para el funcionamiento de una página web capaz de recibir un listado de nombres de amigos y luego aleatoriamente asignar un amigo secreto a partir de la lista dada.
 
 <h2 align="center"> Estado del proyecto </h2>
-<h4 align="center"> :construction: Proyecto en Deployado :construction: </h4>
+<h4 align="center"> :construction: Proyecto en estado Desarrollado :construction: </h4>
 Este proyecto cumple con todos los requisitos solicitados por el desafío del amigo secreto.
 
 <h2 align="center"> :hammer:Funcionalidades del proyecto </h2>
